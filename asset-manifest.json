@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://mary-mena21.github.io/csb-wkw8jw/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://mary-mena21.github.io/csb-wkw8jw/static/js/main.0863e2f9.chunk.js",
+    "main.js.map": "https://mary-mena21.github.io/csb-wkw8jw/static/js/main.0863e2f9.chunk.js.map",
+    "runtime-main.js": "https://mary-mena21.github.io/csb-wkw8jw/static/js/runtime-main.cbfc342f.js",
+    "runtime-main.js.map": "https://mary-mena21.github.io/csb-wkw8jw/static/js/runtime-main.cbfc342f.js.map",
+    "static/js/2.33f0bf01.chunk.js": "https://mary-mena21.github.io/csb-wkw8jw/static/js/2.33f0bf01.chunk.js",
+    "static/js/2.33f0bf01.chunk.js.map": "https://mary-mena21.github.io/csb-wkw8jw/static/js/2.33f0bf01.chunk.js.map",
+    "index.html": "https://mary-mena21.github.io/csb-wkw8jw/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://mary-mena21.github.io/csb-wkw8jw/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.33f0bf01.chunk.js.LICENSE.txt": "https://mary-mena21.github.io/csb-wkw8jw/static/js/2.33f0bf01.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbfc342f.js",
+    "static/js/2.33f0bf01.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.0863e2f9.chunk.js"
+  ]
+}
